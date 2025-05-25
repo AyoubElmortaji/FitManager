@@ -17,4 +17,5 @@ FitManager is a project designed to help users manage their fitness activities, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Rmossaab/FitManager.git
+   git clone https://github.com/AyoubElmortaji/FitManager
+
